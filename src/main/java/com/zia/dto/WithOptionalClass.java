@@ -7,7 +7,7 @@ public class WithOptionalClass {
         public static void main(String[] args){
             String[] words = new String[10];
             words[5]= "welcome";
-
+          // this is the optional class
             Optional<String> checkNull = Optional.ofNullable(words[5]);
 
             if (checkNull.isPresent()) {
