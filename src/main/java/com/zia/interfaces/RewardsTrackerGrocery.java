@@ -3,9 +3,9 @@ package com.layaq.interfaces;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-public class RewardsTracker {
-    // This is the updated class  in develop
-    
+public class RewardsTrackerGrocery {
+    // This is the updated class
+
 
     public static void main(String[] args) {
 
